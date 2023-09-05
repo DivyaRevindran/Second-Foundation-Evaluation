@@ -23,7 +23,6 @@ public class BankMain {
 			try {
 		System.out.println("1.Login as Administrator");
 		System.out.println("2.Login as Customer");
-		System.out.println("3.Exit");
 		opt = Integer.parseInt(scan.nextLine());
 		
 		if (opt == 1) {
